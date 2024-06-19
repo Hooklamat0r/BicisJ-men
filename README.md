@@ -1,6 +1,6 @@
-# Reservas Deportivas
+# Reservas Bicicletas
 
-Este proyecto es un sistema de compras de bicicletas. Incluye las siguientes características:
+Este proyecto es un sistema de reservas de bicicletas. Incluye las siguientes características:
 
 - Página de Alquiler
 - Página de Planes
